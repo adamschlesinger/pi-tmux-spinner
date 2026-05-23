@@ -1,9 +1,19 @@
 {
   "name": "pi-tmux-spinner",
   "version": "1.0.0",
-  "description": "Animated tmux window-name spinner for pi coding agent — shows activity while the agent is working",
+  "description": "Animated tmux window-name spinner for the pi coding agent",
   "keywords": ["pi-package", "tmux", "spinner"],
   "license": "MIT",
+  "author": "Adam Schlesinger",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adamschlesinger/pi-tmux-spinner.git"
+  },
+  "homepage": "https://github.com/adamschlesinger/pi-tmux-spinner#readme",
+  "files": [
+    "extensions/",
+    "README.md"
+  ],
   "pi": {
     "extensions": ["./extensions"]
   },
