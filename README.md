@@ -20,7 +20,7 @@ When the agent finishes, the window name is restored cleanly (stripping the spin
 ## Install
 
 ```bash
-pi install git:gitea.necro.gg/adam/pi-tmux-spinner
+pi install git:github.com/adamschlesinger/pi-tmux-spinner
 ```
 
 Or from npm (if published):
