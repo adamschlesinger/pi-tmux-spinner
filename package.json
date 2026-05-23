@@ -1,0 +1,13 @@
+{
+  "name": "pi-tmux-spinner",
+  "version": "1.0.0",
+  "description": "Animated tmux window-name spinner for pi coding agent — shows activity while the agent is working",
+  "keywords": ["pi-package", "tmux", "spinner"],
+  "license": "MIT",
+  "pi": {
+    "extensions": ["./extensions"]
+  },
+  "peerDependencies": {
+    "@earendil-works/pi-coding-agent": "*"
+  }
+}
